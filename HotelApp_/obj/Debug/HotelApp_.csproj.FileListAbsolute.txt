@@ -1,0 +1,9 @@
+C:\Users\Edwin\source\repos\HotelApp_\HotelApp_\bin\Debug\Database1.mdf
+C:\Users\Edwin\source\repos\HotelApp_\HotelApp_\bin\Debug\Database1_log.ldf
+C:\Users\Edwin\source\repos\HotelApp_\HotelApp_\bin\Debug\HotelApp_.exe.config
+C:\Users\Edwin\source\repos\HotelApp_\HotelApp_\bin\Debug\HotelApp_.exe
+C:\Users\Edwin\source\repos\HotelApp_\HotelApp_\bin\Debug\HotelApp_.pdb
+C:\Users\Edwin\source\repos\HotelApp_\HotelApp_\obj\Debug\HotelApp_.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\source\repos\HotelApp_\HotelApp_\obj\Debug\HotelApp_.exe
+C:\Users\Edwin\source\repos\HotelApp_\HotelApp_\obj\Debug\HotelApp_.pdb
+C:\Users\Edwin\source\repos\HotelApp_\HotelApp_\obj\Debug\HotelApp_.csprojAssemblyReference.cache
